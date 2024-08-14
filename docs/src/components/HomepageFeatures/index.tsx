@@ -17,7 +17,7 @@ const FeatureList: FeatureItem[] = [
         Svg: require('@site/static/img/icon_teach.svg').default,
         description: (
             <>
-                New to BigBlueButton?
+                New to VDO.CLICK?
                 The complete user-guide with all the available features.
             </>
         ),
@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
         Svg: require('@site/static/img/icon_developer.svg').default,
         description: (
             <>
-                Learn everything about extending BigBlueButton
+                Learn everything about extending VDO.CLICK
                 and creating new integrations using the API.
             </>
         ),
@@ -42,7 +42,7 @@ const FeatureList: FeatureItem[] = [
         description: (
             <>
                 Technical specifications, step-by-step guide and all you need to
-                get BigBlueButton up an running.
+                get VDO.CLICK up an running.
             </>
         ),
         actionText: "Server management",
@@ -54,7 +54,7 @@ const FeatureList: FeatureItem[] = [
         description: (
             <>
                 Full guide for installing and using Greenlight,
-                the simple room manager tailored for BigBlueButton.
+                the simple room manager tailored for VDO.CLICK.
             </>
         ),
         actionText: "Greenlight guide",
@@ -65,7 +65,7 @@ const FeatureList: FeatureItem[] = [
         Svg: require('@site/static/img/icon_new.svg').default,
         description: (
             <>
-                Discover the new features of BigBlueButton in version 3.0 (under development).
+                Discover the new features of VDO.CLICK in version 3.0 (under development).
             </>
         ),
         actionText: "Discover",
@@ -76,7 +76,7 @@ const FeatureList: FeatureItem[] = [
         Svg: require('@site/static/img/icon_testing.svg').default,
         description: (
             <>
-                Interested into manual and automated testing BigBlueButton. Discover how.
+                Interested into manual and automated testing VDO.CLICK. Discover how.
             </>
         ),
         actionText: "Testing the product",
